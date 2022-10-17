@@ -9,3 +9,8 @@ function getUserInputAndCalculateDay(){
 
    return dayOfTheWeek   
 }
+
+function getGender(){
+  var gender = prompt("Enter your gender")
+  return gender;
+}
