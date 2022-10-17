@@ -1,0 +1,71 @@
+[33mcommit adf74a5ece2ef114ff5d951c27c54d5ba88548d9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sondoro <olugas@yahoo.com>
+Date:   Mon Oct 17 23:58:15 2022 +0300
+
+     align image and button to center
+
+[33mcommit d9cb671b27f87c8804222d3042bb5a9aa9ba90a7[m
+Author: Sondoro <olugas@yahoo.com>
+Date:   Mon Oct 17 22:44:09 2022 +0300
+
+    add image, link to html file and update styles file
+
+[33mcommit 4ac9e3de88394396ec37880189454fe707e96bcf[m
+Author: Sondoro <olugas@yahoo.com>
+Date:   Mon Oct 17 21:23:09 2022 +0300
+
+    add button and link to main() js function
+
+[33mcommit 20fb9be6ee90ce3e22e4a2f3b450fa25f9edd1f9[m
+Author: Sondoro <olugas@yahoo.com>
+Date:   Mon Oct 17 21:12:14 2022 +0300
+
+    update js business logic
+
+[33mcommit 4e801f7dc0f6ee1852ecab27a473f56c0e5c960c[m
+Author: Sondoro <olugas@yahoo.com>
+Date:   Mon Oct 17 18:52:34 2022 +0300
+
+    add male name, female name and days of the week constants
+
+[33mcommit 31ae4f439bd4f7214cdb2e264aefad22a9f70235[m
+Author: Sondoro <olugas@yahoo.com>
+Date:   Mon Oct 17 18:19:20 2022 +0300
+
+    add getGender js function
+
+[33mcommit 7d3118c9db33aae7ca1ac2ea4cbc9b48e98597c2[m
+Author: Sondoro <olugas@yahoo.com>
+Date:   Mon Oct 17 18:09:14 2022 +0300
+
+    update the year, month and day user input function
+
+[33mcommit 9868426088735b868c9a9c6374bfef2d15d52fc0[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Sondoro <olugas@yahoo.com>
+Date:   Fri Oct 14 23:30:12 2022 +0300
+
+    updating readmen project description
+
+[33mcommit 88fcdad1994a28b035c5deaf1165c14beeb8f43b[m
+Author: Sondoro <olugas@yahoo.com>
+Date:   Fri Oct 14 23:04:45 2022 +0300
+
+    linking Bootstrap via CDN
+
+[33mcommit af9cde86456537ea1e4a21043565ec3a6d311e28[m
+Author: Sondoro <olugas@yahoo.com>
+Date:   Fri Oct 14 20:34:16 2022 +0300
+
+    add readme file documentation
+
+[33mcommit a767dac9120ba7df53c955137f12d128dcfb7e8b[m
+Author: Sondoro <olugas@yahoo.com>
+Date:   Fri Oct 14 19:47:59 2022 +0300
+
+    set project structure
+
+[33mcommit 1d254ce1706e817f58a62914bb2c3311a24ea73f[m
+Author: Sondoro <olugas@yahoo.com>
+Date:   Fri Oct 14 18:41:05 2022 +0300
+
+    first commit
