@@ -12,6 +12,11 @@ body{
   float: left;
   margin: 20px;
 }
-.center{
-  text-indent: 14cm;
+img{
+  display: block;
+  margin: 0 auto 0 auto
+}
+button{
+  display: block;
+  margin: 0 auto 0 auto
 }
