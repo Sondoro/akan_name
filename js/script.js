@@ -10,10 +10,12 @@ function getUserInputAndCalculateDay(){
   var century = parseInt(year.substring(0,2));
   year = parseInt(year);
   var month = parseInt(prompt("Enter month (MM);"));
-   if (month <=0 || month >12){
+   if (month!=month){
+    alert("Enter month (MM). Cannot be blank!");
+}   else if (month <=0 || month >12){
     alert("Invalid entry. Enter a number between 1 and 12!");
 } 
-  var day = parseInt(prompt("Enter day (DD):"));
+  var day = parseInt(prompt("Enter day (DD):")); //An invalid day should be (d<=0) or (d>31)
    if (day===1||day===2||day===3||day===4||day===5||day===6||day===7||day===8||day===9||day===10||day===11||day===12||day===13||day===14||day===15||day===16||day===17||day===18||day===19||day===20||day===21||day===22||day===23||day===24||day===25||day===26||day===27||day===28||day===29||day===30||day===31
     ){
     return day;
