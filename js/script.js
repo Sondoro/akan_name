@@ -5,7 +5,7 @@ const DAYS_OF_THE_WEEK = ["Friday", "Saturday", "Sunday", "Monday", "Tuesday", "
 function getUserInputAndCalculateDay(){
   var year = prompt("Enter year (YYYY):");
    if (year === ""){
-    alert("Enter year. Cannot be blank!");
+    alert("Enter year (YYYY). Cannot be blank!");
 }
   var century = parseInt(year.substring(0,2));
   year = parseInt(year);
