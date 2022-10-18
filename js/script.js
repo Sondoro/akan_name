@@ -3,17 +3,17 @@ const FEMALE_NAMES = ["Afua", "Ama", "Akosua", "Adwoa", "Abenaa", "Akua", "Yaa"]
 const DAYS_OF_THE_WEEK = ["Friday", "Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday"]
 
 function getUserInputAndCalculateDay(){
-  var year = prompt("Enter year:");
+  var year = prompt("Enter year (YYYY):");
    if (year === ""){
     alert("Enter year. Cannot be blank!");
 }
   var century = parseInt(year.substring(0,2));
   year = parseInt(year);
-  var month = parseInt(prompt("Enter month;"));
+  var month = parseInt(prompt("Enter month (MM);"));
    if (month <=0 || month >12){
     alert("Invalid entry. Enter a number between 1 and 12!");
 } 
-  var day = parseInt(prompt("Enter day:"));
+  var day = parseInt(prompt("Enter day (DD):"));
    if (day <=0 || day >31){
     alert("Invalid entry. Enter a number between 1 and 31!");        
 } 
@@ -22,7 +22,7 @@ function getUserInputAndCalculateDay(){
 }
 
 function getGender(){
-  var gender = prompt("Enter your gender");
+  var gender = prompt("Enter your gender (Male/Female)");
   return gender;
 }
 
